@@ -1,0 +1,44 @@
+.topo {
+    background-color: green ;
+    color: white;
+}
+
+.topo a{
+    color: white;
+    width:"150"; 
+    height:"150";
+    width: 15%;
+    padding: 5px;
+
+    
+}
+
+.menu{
+    background-color: #DADADA
+    
+}
+
+.menu_principal {
+    display:flex;
+    flex-wrap: wrap ;
+
+    
+    }
+
+    .menu_principal li{
+            list-style: none;
+    }
+.page-root-item a{
+    border-bottom: 3px solid green;
+    border-bottom-width: 5%;
+    background: #F1F1F1;
+    display: flex;
+    padding: 0, 5 rem 0;
+    padding-top: 0.5rem;
+    padding-right: 50px;
+    padding-bottom: 0.5rem;
+    padding-left: 80px;
+    font-weight: 700;
+    width: 100%;
+}
+
